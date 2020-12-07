@@ -5,9 +5,6 @@
 *.apk
 *.ap_
 
-# Android Studio
-.idea/workspace.xml
-.idea/libraries/
 
 # files for the dex VM
 *.dex
@@ -42,13 +39,15 @@ proguard/
 # Windows clutter
 Thumbs.db
 
-# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+# Android Studio
 .idea/workspace.xml
-androidapp/com.rejh.icerrr.itson-as/.idea/workspace.xml
-androidapp/com.rejh.icerrr.itson-as/.idea/libraries/*
+.idea/libraries/
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
 .idea/tasks.xml
 .idea/datasources.xml
 .idea/dataSources.ids
+androidapp/com.rejh.icerrr.itson-as/.idea/workspace.xml
+androidapp/com.rejh.icerrr.itson-as/.idea/libraries/*
 
 # --- Icerrr
 
